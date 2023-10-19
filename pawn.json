@@ -7,7 +7,7 @@
         "sampctl/samp-stdlib",
         "Southclaws/samp-logger",
         "pawn-lang/YSI-Includes",
-        "ScavengeSurvive/item"
+        "sfrp/samp-item"
     ],
     "dev_dependencies": ["ScavengeSurvive/test-boilerplate"]
 }
